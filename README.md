@@ -12,7 +12,6 @@
 **INTP-A** / **ISTP-A** 
 - 🌈 I'm a 26 years old
 - 🐼 Currently in Chengdu
-- 🌐 [Blog](https://107701.xyz/)
 - ✉️ contact@ch1cc.com
 
 ## About GitHub
