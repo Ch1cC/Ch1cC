@@ -1,4 +1,4 @@
-# Hi! I'm Ch1Cc 👋
+# Hi! I'm Ch1cC 👋
 
 ## About Me
 
