@@ -11,7 +11,7 @@
 
 **INTP-A** / **ISTP-A** /**🌈**
 - 🐼 Currently in Chengdu
-- ✉️ contact@ch1cc.com
+- ✉️ ch1cc@qq.com
 
 ## About GitHub
 
