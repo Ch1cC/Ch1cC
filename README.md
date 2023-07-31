@@ -7,10 +7,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-**INTP-A** / **ISTP-A** /**🌈**
-- 🐼 Currently in Chengdu
-- ✉️ ch1cc@qq.com
-
 ## About GitHub
 
 <div style="display:flex; gap: 8px; align-items: center">
