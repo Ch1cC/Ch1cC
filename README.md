@@ -1,5 +1,3 @@
-# Hi! I'm Ch1cC 👋
-
 ## About Me
 
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
